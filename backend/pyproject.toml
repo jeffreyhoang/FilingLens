@@ -1,0 +1,30 @@
+[project]
+name = "backend"
+version = "0.1.0"
+description = "FastAPI backend for the stock investment research agent"
+requires-python = ">=3.12"
+dependencies = [
+    "anthropic>=1.13.0",
+    "fastapi>=0.143.0",
+    "openai>=3.29.0",
+    "pgvector>=0.5.1",
+    "psycopg[binary]>=3.3.6",
+    "pydantic-settings>=2.15.0",
+    "python-dotenv>=1.2.4",
+    "supabase>=2.32.0",
+    "uvicorn>=0.54.0",
+]
+
+[tool.uv]
+python-preference = "only-managed"
+
+[dependency-groups]
+dev = [
+    "ruff>=0.17.0",
+]
+
+[tool.ruff]
+line-length = 88
+
+[tool.ruff.lint]
+select = ["E", "F", "I", "UP", "B"]
