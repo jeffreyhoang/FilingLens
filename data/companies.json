@@ -1,0 +1,72 @@
+[
+  {
+    "ticker": "AAPL",
+    "name": "Apple Inc.",
+    "cik": "0000320193",
+    "fiscal_year_end": "09-30",
+    "notes": "52/53-week year ending the last Saturday of September."
+  },
+  {
+    "ticker": "MSFT",
+    "name": "Microsoft Corp",
+    "cik": "0000789019",
+    "fiscal_year_end": "06-30",
+    "notes": "Fiscal year runs July to June, so FY2024 ends June 2024."
+  },
+  {
+    "ticker": "GOOGL",
+    "name": "Alphabet Inc.",
+    "cik": "0001652044",
+    "fiscal_year_end": "12-31",
+    "notes": "Dual-class: GOOGL (Class A) and GOOG (Class C) share one CIK."
+  },
+  {
+    "ticker": "AMZN",
+    "name": "Amazon.com Inc.",
+    "cik": "0001018724",
+    "fiscal_year_end": "12-31",
+    "notes": ""
+  },
+  {
+    "ticker": "NFLX",
+    "name": "Netflix, Inc.",
+    "cik": "0001065280",
+    "fiscal_year_end": "12-31",
+    "notes": ""
+  },
+  {
+    "ticker": "NVDA",
+    "name": "NVIDIA Corp",
+    "cik": "0001045810",
+    "fiscal_year_end": "01-31",
+    "notes": "52/53-week year ending the last Sunday of January, so FY2025 ends January 2025."
+  },
+  {
+    "ticker": "TSLA",
+    "name": "Tesla, Inc.",
+    "cik": "0001318605",
+    "fiscal_year_end": "12-31",
+    "notes": ""
+  },
+  {
+    "ticker": "CSCO",
+    "name": "Cisco Systems, Inc.",
+    "cik": "0000858877",
+    "fiscal_year_end": "07-31",
+    "notes": "52/53-week year ending the last Saturday of July."
+  },
+  {
+    "ticker": "ORCL",
+    "name": "Oracle Corp",
+    "cik": "0001341439",
+    "fiscal_year_end": "05-31",
+    "notes": ""
+  },
+  {
+    "ticker": "ADBE",
+    "name": "Adobe Inc.",
+    "cik": "0000796343",
+    "fiscal_year_end": "11-30",
+    "notes": "52/53-week year ending the Friday closest to November 30."
+  }
+]
